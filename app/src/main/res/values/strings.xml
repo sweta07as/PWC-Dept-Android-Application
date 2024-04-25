@@ -1,0 +1,1108 @@
+<resources>
+    <string name="app_name">PWC Dept Repository</string>
+    <string name="select">Select Language</string>
+
+    <string name="arts1">
+        • Film and Music appreciation and creative writing classes. \n\n
+        • Exposure visit to various Media Houses. \n\n
+        • Creative Bulletin Board assignments. \n\n
+        • Annual Media Workshop, Exhibition, Quiz. \n\n
+        • Annual Study tour to media-related organizations. \n\n
+        • Hands-on training in photography, video production and radio production. \n\n
+        • Theater Workshop – Drama \n\n
+    </string>
+
+    <string name="arts1faculties">
+    • Dr. Tauseef Hassan (HoD)\n
+      M.A., MJMC, B.Ed\n
+      Advertising and Communication Management\n\n
+
+    • Mr. Amitabh Ranjan\n
+      MA ,UGC NET\n
+      Print,TV and Radio\n\n
+
+    • Dr. Dharmendra Kumar Singh\n
+      MBA, NET (UGC),Ph.D\n\n
+
+    • Ms. Runa\n
+      M.A. in English\n\n
+
+    • MR. Prashant Ravi\n
+      Export management, Digital Journalism\n\n
+    </string>
+
+
+    <string name="arts2">
+        • The Department of English was established in 1940. \n\n
+        • The department aims at creating a learning environment
+        that is conducive to the development of critical faculty
+        – the ability to think critically and independently – and
+        making of socially responsible and committed students
+        who have imbibed human values and are ethical in their
+        practices.\n\n
+        • The department focuses not only on imparting curriculum
+        based theoretical knowledge but also on sensitising students
+        towards important issues and subjects, so that the acquired
+        learning can translate into positive social intervention.\n\n
+        • The activities of the department aim at providing learning
+        opportunities and exposure to the students. The regular activities
+        include poetry writing and recitation, Skit based on literary texts,
+        research project and poster making. Apart from this the department
+        holds varied activities to promote student participation and performance.\n\n
+        • Guest lectures, seminars, interactive sessions on relevant themes are also organised.\n\n
+        • Movies / documentaries are screened and film appreciation classes organised.\n\n
+        • Teachers of the Department provide constant guidance – both academic and personal – to
+        the students. Each teacher acts as a mentor to a group of students. Students share their
+        academic and personal problems and the mentor provides counselling to the students.\n\n
+    </string>
+
+    <string name="arts2faculties">
+          • Dr. Sahar Rahman (HOD)\n
+            M.A, Ph.D\n
+            Postcolonial Fiction\n\n
+
+           • Dr. Shahla Rehana\n
+             M.A, Ph.D\n
+             Asian English\n\n
+
+           • Dr. Richa\n
+            M.A (English), NET, Ph.D\n
+            Sexuality, Gender and Ecology\n\n
+
+           • Ms. Nikhila Narayanan \n
+             M.A (English), NET, B.Ed \n
+             Ecology and Literature \n\n
+
+           • Sr. M. Nelsa A.C. \n
+             M.A (English)\n
+             Postcolonial Literature \n\n
+
+           • Dr. Devina Krishna \n
+             M.A (Linguistics), NET, M.Phil and Ph.D \n\n
+
+           • Dr. Deepika Tiwari \n
+             MA(English), NET, Ph.D \n\n
+
+           • Dr. Apurba Paul \n
+             M.A (English), NET, Ph.d \n\n
+
+            • Dr. Prabhat Jha \n
+              PhD, NET \n\n
+
+           • Muniba Sami\n
+             PhD, NET \n\n
+       </string>
+
+
+    <string name="arts3">
+             • The Department of Economics has maintained a high standard
+            in the personality development of students \n\n
+            • The department aims at the holistic development of its students \n\n
+             • Apart from the conventional course, the Department has launched a UGC recognized and sponsored
+            Add-on career-oriented course on ‘Public Relations’ at three levels-Certificate, Diploma, and Advanced Diploma.\n\n
+             • Mostly our students are university toppers and rank holders. \n\n
+             • Students excel in various MBA Courses and are selected for the same. \n\n
+             • There has been an excellent performance in national level competitions. \n\n
+        </string>
+
+    <string name="arts3faculties">
+            •  Dr. Zareen Fatima(HOD) \n
+               M.A., B.Ed, Ph.D \n
+               Monetary Economics \n\n
+
+            •  Ms. Kamaljeet Kaur \n
+               M.A Economics, UGC NET \n\n
+
+            •  Ms. Vijeta lal \n
+               M.A Economics,UGC NET, B.Ed \n\n
+
+            •  Dr. Maryam Sabreen \n
+               M. Phil ,MA, NET \n\n
+
+             • Ms. Priti Kumari \n
+               M.A, U.G.C – NET and JRF\n
+               Econometrics \n\n
+
+             • Dr. SWASTIKA SATYAM \n
+               M.A Ph.D. \n\n
+        </string>
+
+    <string name="arts4">
+                 • Organising Fashion displays. \n\n
+                 • Participating in Mahila Udyog Mela every Year Since 1997, Patna.\n\n
+                 • Visit to garment manufacturing units, export houses and designing institutes in India.\n\n
+                 • Visit to different traditional craft centers of India.\n\n
+                 • Organizing art and craft competitions.\n\n
+                 • Workshops and guest lectures.\n\n
+                 • Students go for the job training every year.\n\n
+        </string>
+
+    <string name="arts4faculties">
+             • Dr Shemushi Ityalam Madhu(HOD) \n
+                M.A, PGDFD, Ph.D \n
+                Apparel Craft \n\n
+
+             • Ms. Asha Pandey \n
+                PGDFD,BFA(Fine Arts) \n
+                Basic Design \n\n
+
+
+             • Ms. Geetanjali Choudhary \n
+                PGDFD,M.A., MFA \n
+                CAD \n\n
+
+             • Ms. Priyanka Singh \n
+                PGDFD, B.Ed.,M.A \n
+                Illustration \n\n
+
+             • Ms. Vandana Sinha \n
+                PGDCA,PGDFD,FCT \n
+                Clothing Technology \n\n
+
+             • Ms. Purnima Roy \n\n
+        </string>
+
+    <string name="arts5">
+         • The Department imparts P.G. and UG of Geography based on CBCS syllabus.\n\n
+         • The students of the department excel in University Examination every year with 100% result and top ranks. \n\n
+         • Teaching-learning process is up to date in the department with regular use of Smartboards, ICT aids, and other teaching aids.\n\n
+         • The Department has a well-furnished laboratory and a departmental library. \n\n
+         • On regular basis the students participate in various co-curricular and extra-curricular
+            activities such as seminar, quiz, poster making, debate, power point presentation, exhibition, study tour etc. \n\n
+         • Final year students take up research projects every year on relevant socio-economic issues. \n\n
+         • National Seminars and Workshops are organized on regular basis on contemporary themes. \n\n
+         • Department runs a Credit base Add- On Certificate course on ‘Travel and Tourism Management’. \n\n
+         • The teachers of the department have undertaken ‘Research Project’ and they keep themselves updated by
+            attending National/ International Seminars and publishing research articles in reputed journals. \n\n
+         • The Department has undertaken an outreach programme ‘Manthan’ under which the students of the department, accompanied
+            by a faculty member provide remedial coaching to the under-privileged school students at ‘Manthan’  NGO, Khagaul every Saturday. \n\n
+         • The alumni of the department are well placed in various capacities such as Civil Services, lectureship, banking, and corporate sector.
+            Some of the well-placed alumni are: Madhu Malti Ghosh, IAS, Ms. Nilima  Kumari , IAS, Ms. Sheela Irani, Bihar Police Service, Ms. Divya,
+            IAS, Prof. Ravi Kiran Sharma, Prof. in Geography, P.U., Ms. Swarnim Sinha, Urban Planner, California, Vihag Guru, Vice President, Yes Bank Ltd. \n\n
+            </string>
+
+    <string name="arts5faculties">
+            •  Dr. Amrita Chowdhury (HOD)\n
+               M.A, Ph.D \n\n
+
+            •  Sister Anna A.C\n
+               M.A. Gold medalist \n
+               Urban, Political and Population Geography \n\n
+
+             • AISHWARYA RAJ \n
+               UGC-NET, M.A., B.Ed \n\n
+
+             • Meenakshi Mishra \n
+               UGC-NET, M.Tech, M.A. \n\n
+
+
+            •  Tulika Kumari \n
+               M.A. UGC-NET. \n\n
+
+            •  Dr.Awadhesh Kumar \n
+               UGC-NET, M.Tech, M.A \n\n
+
+            • DR. ARVIND KUMAR \n
+                NET/JRF, M.A., Ph.D.\n\n
+        </string>
+
+    <string name="arts6">
+
+            • Department has maximum number of students as AECCHINDI is a compulsory subject with English.\n\n
+            • Every year Hindi Pakhwada is organized to mark Hindi Diwas.\n\n
+            • The faculty members are constantly engaged in Research work by presenting papers, publishing articles and guiding CPE Projects. \n\n
+            • Most of the students are well placed in Government and Private sectors. \n\n
+            • Many students are working as teachers, Principals and Professors in schools and Universities.\n\n
+            • Every year a few students clear NET and JRF. \n\n
+            • Proof reading, Translation and Script writing is also done by faculty members on regular basis. \n\n
+            • Cultural and Educational Activities, Mentor system and Parent-Teacher MEET are some healthy practices of the Department. \n\n
+
+        <!--    Our Alumni \n\n-->
+
+        <!--            1. Prof.Mangala Rani,Department of Hindi,College of Commerce, Patna, PPU \n-->
+        <!--            2. Dr. Vibha Kumari,Head, Department of Hindi, Patna College, P.U. \n-->
+        <!--            3. Sister Soni,Principal, Carmel School, Gorakhpur,U.P. \n-->
+        <!--            4 . Devashree,Assistant Commissioner of State Taxes,Commercial Tax Department, Bihar \n-->
+        <!--            5.  Nandini,Pre School Teacher,Safari Kids,California, U.S.A\n-->
+        <!--            6. Indra Singh,Rajbhasha Adhikari,Bank of India \n-->
+        <!--            7 . Parinita,Rajbhasha Adhikari,Union Bank \n-->
+
+        </string>
+
+    <string name="arts6faculties">
+             • Dr. Manjula Sushila \n
+            HOD,M.A, Ph.D \n
+            Upanyas \n\n
+
+             • Dr. Deepa Srivastava \n
+            M.A, Ph.D, NET,MJMC \n
+            Gadya Sahitya \n\n
+
+             • Dr. Sushma Choubey \n
+            M.A, Ph.D \n
+            Upanyas \n\n
+
+
+             • Dr. Brahma Nand \n
+            M.Phil, Ph.D \n\n
+
+             • Dr. Kumar Dhananjay \n
+            M.Phil, Ph.D \n\n
+        </string>
+
+    <string name="arts7">
+             •We aim to make the student’s worthy citizens and better human beings
+            by letting them acquire deeper knowledge of the past, energetic living of the present and looking forward to sustainable hope. \n\n
+             •Seminars, Projects, Quiz Programmes, field trips, educational trips, cultural activities, personality classes with films. \n\n
+             •Regular terminal examinations, as well as weekly class examinations. \n\n
+             •Counseling, conducting prayer, celebration of special festivals, National Days etc. \n\n
+             •CPE Minor Projects, class projects on various topics like empowerment of women and other Social issues. \n\n
+        </string>
+
+    <string name="arts7faculties">
+
+            •Sister Celine Cresta,A.C.(HOD) \n
+            M.A. Ph.D \n
+            Medieval India \n\n
+
+            •Ms. Shreya Singh \n
+            M.A, NET \n\n
+
+           • Dr. Priyanka \n
+            PhD \n\n
+
+            •Ms. Bhawana Singh \n
+            M.A., NET JRF \n\n
+
+            •Dr. RANJU KUMARI \n
+            M.A., PhD \n\n
+
+            •DR. ASHA SHARMA \n
+            PhD \n\n
+        </string>
+
+    <string name="arts8">
+             •The Department of Home Science provides need-based education to girl students in the
+            theory and practice to meet the day to day challenges of life. This would enable them to play
+            diverse roles in life as a housewife, a working woman, a mother, a nation builder and a responsible and responsive human being. \n\n
+             •Over the years our P.G students have won laurels and were the recipients of Gold Medals in the University examinations. \n\n
+             •Research work is undertaken by the students at P.G and U.G levels under the supervision and guidance of the department staff. \n\n
+             •A Health Centre was inaugurated in the year 2010. Health check-ups for the college staff and students are conducted periodically. \n\n
+             •Department holds various Awareness Programmes /Interactive Sessions /Seminars for the staff and students on various health issues, first
+            aid, disaster management and so on and many eminent doctors are invited to give input sessions. \n\n
+             •National and International Days of importance-National Nutrition Week, First Aid  Day, Dietetic Day and so on, are
+            marked with various programmes like quiz, exhibition, poster competition etc. \n\n
+             •Teachers upgrade themselves by attending refresher courses /national -international seminars/symposium. They also
+            present papers and publish an article in journals.\n\n
+        </string>
+
+    <string name="arts8faculties">
+
+             •Dr. Sister Maria Tanisha, A.C. (HOD) M.A PhD \n
+            Composite \n\n
+
+            • Dr. Shazia Husain \n
+            Ph.D., UGC NET-JRF, M.Sc.\n\n
+
+            • Dr. Nisha Kumari \n
+            M.A, B.Ed, NET, Ph.D. \n\n
+
+             •Dr. Suniti Bhagat \n
+            M.Sc. , Ph.D., NET\n
+            Textile \n\n
+
+             •Dr. Rosy Kumari \n
+            Ph.D, M.Sc. \n\n
+
+        </string>
+
+    <string name="arts9">
+             • The Department is equipped with an air-conditioned state-of-the-art computer lab. \n\n
+             • Mass Communication, Reporting and Editing, Audio Visual Media, Design and Graphics, Photojournalism,
+            Public Relation, and Advertising etc. form a part of the syllabus. \n\n
+            •  On the Job training in the Print Media for the 1st year students and in Electronic
+            Media/ PR/ Advertising agencies for the 2nd year students during May-June is a compulsory part of the curriculum. \n\n
+             • During the 3rd year, the students are taken a study tour to places like Mumbai, Goa, Hyderabad, Chandigarh, and
+            Amritsar where they visit various organizations of the Print Media and Electronic Media apart from the local sightseeing
+              The students take part in Seminars, Workshops, Co-curricular activities. \n\n
+             • The BMC library has a rich collection of books, magazines, and daily newspapers and in addition an LCD TV with a
+            Projector and screen and a laptop to facilitate exposure of the electronic media. \n\n
+             • The USP of the department is its lab journal ‘Headway’ which gives exposure to the students of BMC to learn the finer
+            nuances of Print Journalism while I-Mac with FCP (Final Cut Pro ) gives them hands-on training in Video Production. Throughout the
+            year the students are busy shooting, recording, editing, writing scripts and other media related work under the guidance of experts from respective fields. \n\n
+        </string>
+
+    <string name="arts9faculties">
+
+             • Ms. ROMA(HOD) \n
+            Phd ( Pursuing) ,UGC NET \n\n
+
+             • Ajay Kumar Jha \n
+            M.A. MJMC, Political Science \n\n
+
+             • Ms. Divya Gautam \n
+            Phd(Pursuing), UGC-NET \n\n
+
+             • Ms. Ankita \n
+            UGC NET, Pursuing PhD \n\n
+
+             • Mr. Prasant Ravi \n
+            Diploma in Photography, Photo Journalism \n\n
+
+             • Mr. Gaurav Aranya \n
+            MJMC,UGC NET \n\n
+
+             • Ms. Aprajita Pathak \n
+            UGC-NET \n\n
+        </string>
+
+    <string name="arts10">
+            •  The faculty members are constantly engaged in extension services, presenting papers, publishing articles, projects, and authoring books. \n\n
+            • One of the students of this department is now a judge of Jaipur High Court (Justice Gyan Sudha Mishra)\n\n
+            • Department organizes Seminar, Conference and Symposium on a regular basis on current issues like Human Rights, Women’s Studies, Environment etc.\n\n
+            •  Department runs two add-on courses in Human Rights and Value education and Women’s Studies. \n\n
+            •  The Department of Political Science is one of the star departments of the College.\n\n
+        </string>
+
+    <string name="arts10faculties">
+            •  Dr. Vinita Priyedarshi \n
+                M.A, Ph.D \n
+                Expert in Political theory and International Relations \n\n
+
+
+            • Ms. Fiza Darakshan \n
+                M.A, NET, pursuing PhD\n
+                Expert in Indian Constitution Public Administration \n\n
+
+            •  Mr. Adweetiya Sinha \n
+                MA,NET, Pursuing PhD. \n\n
+
+            • Ms. Simran Sinha \n
+                MA, NET\n\n
+
+            •   Ms. Jyoti Rani \n
+                MA, NET \n\n
+
+            • Ms. Taniya Banerjee \n
+                MA, NET \n\n
+        </string>
+
+
+    <string name="arts11">
+               •  Research projects are being carried out successfully due to the sufficient availability of psychological tests.\n\n
+                • Educational tour for B.A. III students to mental hospitals is conducted.\n\n
+               •  A full-time counselor is available in the guidance and counseling center.\n\n
+               •  Psychiatrists/Counselors are invited to the Dept. for lectures and interactions.\n\n
+                • Students from all Departments of Patna Women’s College come for guidance and counseling. They are counseled to face their day-day problems.\n\n
+               •  Regular talks are conducted related to psychological issues by internal and external resource persons.\n\n
+                 •Through the Mentor System, the Department offers help and guidance for personal and educational problems of students.\n\n
+                • Seminars and Workshops are held at regular intervals.\n\n
+                 •Parent-Teacher Meet are held regularly to help in personality development.\n\n
+        </string>
+
+    <string name="arts11faculties">
+
+                • Ms. Nupur Sinha(HOD) \n
+                M.A., Ph.D \n\n
+
+                • Ms. Mukta Mrinalini \n
+                M.A., UGC-NET, M.Phil, PhD \n\n
+
+                • Dr. Medha \n
+                M.A, Ph.D \n\n
+
+                 •Dr. Sr. M. Reema A.C.\n
+                M.A, Ph.D \n
+                Clinical Psychology, Counselling \n\n
+
+               •  Ms. Aradhana kumari \n
+                M.A,UGC- NET (PURSUING Ph.D ) \n\n
+
+                • Ms. Nupur Shree \n
+                M.A, UGC NET \n\n
+
+                • Ms. Manisha Kumari \n
+                M.Phil, Diploma \n\n
+        </string>
+
+    <string name="arts12">
+                 • The Department conducts Certificate, Diploma and Advanced Diploma Add-on Courses in Applied Yoga.\n\n
+                 • The Department organized a UGC Sponsored National Seminar on Social, Ethical and Legal Issues Related to Euthanasia and se
+            veral workshops and webinars on YOGA.\n\n
+                 • Departmental activities like seminar quiz, speech contest, poster competition are held on a monthly basis.\n\n
+                 • Three teachers of the department have been awarded Minor Research Projects by the UGC, which they have successfully submitted. \n\n
+                • The Department celebrates inmortant days like Swami Vivekananda Jayanti, Buddha Jayanti,International day of YOGA World Philosophy Day every year.\n\n
+                • Philosophy is a student-friendly subject especially because of its syllabus.\n\n
+                 • It is a scoring subject for Civil Services Examinations. \n\n
+                • For the main exam of UPSC and the different States Public Service Commission, there is one compulsory paper of 300 marks on Ethics, Integrity, and
+            Aptitude. Ethics is an important branch of Philosophy.\n\n
+               • Logical reasoning is also an important part of competitive exams which is taught in Philosophy.\n\n
+                • Philosophy teaches values which is necessary for the upliftment of the society.\n\n
+                • Indian philosophy has its roots in the Vedas and the Upanishads by studying which the student will become acquainted with the culture of India.\n\n
+                • Contemporary Philosophy critical studies the social and political problems thereby providing the right direction to them.\n\n
+                • In all the IITs and NITs there is a Humanities Department. Philosophy is a subject to be studied there.\n\n
+               •  In the IIMS there is a compulsory paper on Value Studies and Ethics.\n\n
+                • In B. Ed. as well as in Teacher’s Training Classes Educational Philosophy is taught as an important paper.\n\n
+                 • Philosophy is a good subject for higher studies and research.\n\n
+                • Teachers of the department regularly publish articles in newspapers, journals, Magazines. Some have even published books.\n\n
+                • Guest lectures on “Ethics and Values” or “Importance of Philosophy in Life” are also held in the department. \n\n
+                • Parent-Teacher meet is also regularly held in the department. \n\n
+                • Students of the department regularly engage themselves in CPE Research Projects on important social and political issues from philosophical perspective.\n\n
+                • Students of the department are among the ten top rank holders in the University. \n\n
+        </string>
+
+    <string name="arts12faculties">
+               •  Dr. Ameeta Jaiswal(HOD) \n
+                M.A, Ph.D \n
+                Ethics \n\n
+
+                • Dr. Kumkum Rani \n
+                M. A, Ph.D \n
+                Religion \n\n
+
+                • Dr. Keerti Chaudhary \n
+                M.A, Ph.D NET/JRF \n\n
+
+               •  Dr. Kamlendra Kumar \n
+                Ph.D, NET, JET (JPSC), B.Ed, M.Ed \n\n
+        </string>
+
+    <string name="arts13">
+
+             •The Department of Social Work has been recently introduced in the year 2020 in Patna Women’s college as sociology being the parent department. \n\n
+             •The Department has started functioning with its first batch (2020-2022, Ist Semester) with a total of seventeen students and two faculty members. \n\n
+            • Currently, the Department is offering postgraduate degree (M.A. in Social Work) \n\n
+        </string>
+
+    <string name="arts13faculties">
+
+            • Dr. Mridul Mishra (HOD) \n
+            MSW (BHU Gold Medal), \n
+            Ph.D.(NET,JRF)\n\n
+
+            • Dr. Chandni Sinha \n
+            M.A., Ph.D \n
+            Industrial Sociology \n\n
+
+            • Ms. Sister Sanjana A.C.\n
+            Community Development (CD), MSW \n\n
+
+            • Ms. Akanksha \n
+            MSW, UGC NET  \n\n
+        </string>
+
+    <string name="arts14">
+     • Department of Sociology was established in the year 1987. The Department offers Undergraduate Programme. \n\n
+    • The Department consists of highly qualified and experienced faculty. It also has rich Departmental Library.\n\n
+    • It is a Parent Department of Master’s in social work (MSW) programme since 2020.\n\n
+    • The faculty members of the department are constantly engaged in Research Work through paper presentations, papers and articles publications
+    and supervising students with CPE projects and Dissertations.\n\n
+    • The Department seeks to develop in students the sociological knowledge and skills that will enable them to think critically
+            and imaginatively about society and social issues.\n\n
+    • The faculty members help their students to prepare themselves for careers in teaching, delivery and administration of
+            social and health services, urban and environmental studies, Law and Government services.\n\n
+    • Department conducts various Cultural and Academic related activities like Debates, Extempore, Quiz, Poster making and essay writing with the aim to
+    provide exposure to the students and help them develop their overall personality. Apart from this, students are encouraged to participate in programs
+            at college, university and national level.\n\n
+    • Guest lectures, webinars, exchanges programs, value judgement classes and interactive sessions on relevant themes are also organized.\n\n
+    • Constant guidance and counselling is provided to the students by the teachers through process of Mentoring.\n\n
+    • Parent-Teacher Meet is also conducted by the department to discuss and assess the progress of the students with the parents.\n\n
+    Student Profile \n\n
+    • Department has approximately 250 students in core course currently.\n\n
+    • Most of our students are toppers and university rank holders and have cleared competitive examinations like UGC NET-JRF, GATE. \n\n
+    • Many of are students are working as professors in universities, teacher in government or private schools, officers in banks, working with law firms and
+    NGO’s and qualified civil services examinations.\n\n
+        <!--    ALUMNI-->
+        <!--    • Devopriya Dutta, Environmentalist & UN Youth Coordinator at Tarumitra. \n-->
+        <!--    • Mrinal Manjari, Assistant Professor (Bpsc) at J. D. Women’s College, Patliputra University.  \n-->
+        <!--    • Naina Jha, Creative Director at Instinct, Social Worker. \n-->
+        <!--    • Soumya Saloni, works with National University of Educational Planning and Administration. \n-->
+        <!--    • Anubha Sinha, Legal Analyst. \n\n-->
+        </string>
+
+    <string name="arts14faculties">
+                 •Dr. Tapashi Bhattacharjee(HOD) \n
+                M.A., B.Ed, Ph.D Anthropology \n\n
+
+                 •Ms. Samiksha  \n
+                M.A, B.Ed, Ph.D (pursuing)  \n\n
+
+                • Sister Jincy A.C.  \n
+                M.A., B.Ed  \n
+                Social Movement in India  \n\n
+
+                • Dr. Juhi Singh  \n
+                M.A., Ph.D. , NET  \n\n
+
+                 •Dr. Chinmayee Mohanty  \n
+                PhD, M.Phil \n\n
+
+                • Dr. Ragini Ranjan  \n
+                M.A, B.Ed, Ph.D  \n
+                Anthropology  \n\n
+        </string>
+
+    <string name="arts15">
+
+                 •Our students have secured top positions in the merit list of Patna University. \n\n
+                 •The Department has a well-equipped library to strengthen teaching, learning and research activities. \n\n
+                 •The students of the Department have achieved success in various fields. They are working in different colleges, educational
+            institutions, civil services, and banking sectors.  \n\n
+
+        </string>
+
+    <string name="arts15faculties">
+                 •Dr. Smita Kumari(HOD) \n
+                M.A, Ph.D  \n
+                Sahitya \n\n
+        </string>
+
+    <string name="arts16">
+
+             •The Department of Urdu, counted as one among the oldest departments in the College, has
+            seen over the past years hundred of students pass through its portals with enriched knowledge. \n\n
+             •The aim of the department is primarily to guide and counsel the individual students in the way best suited
+            to them. The students have performed impressively well, year after year. \n\n
+             •This is a department which imparts education and morals to the students. Students are fully motivated
+            to achieve their ambitions. This department has the power to produce the desired growth in the personality of the students as well. \n\n
+             •The department enhances the language skills and impart them lessons of creative writing skills. Urdu Department will definitely help
+            in unveiling an undiscovered path to success.  \n\n
+             •The Urdu Department where Education and Civilization smell together. \n\n
+    </string>
+
+    <string name="arts16faculties">
+        • Dr Abdul Basit Hamidi(HOD) \n
+        Ph.D.(NET,JRF) \n \n
+        </string>
+
+
+    <!--        <string name="Sci1">-->
+    <!--            1.COMPUTER APPLICATION \n-->
+    <!--              1.1 MCA \n-->
+    <!--                1.2 BCA \n\n-->
+    <!--        </string>-->
+
+
+    <string name="science1mca">
+            • Wi-Fi connectivity and high-speed Internet leased line connection. \n\n
+            • On-the-Job Training is done by students in various organizations. \n\n
+            • Campus Placement for deserving Students. \n\n
+            • Regular monitoring of students through Terminal tests, projects, e-learning Computer-based tutorials, Presentation through Laptop and Projector. \n\n
+            • Faculty support to students. \n\n
+            • Online Tutorial from IIT Mumbai is conducted for college students under the NMEICT project Talk -to -A Teacher.  \n\n
+            • A rich departmental library, to enhance the teaching-learning process. \n\n
+            • Add-on certificate course is conducted as per professional demand in IT Industry. \n\n
+            • Tutorials and Remedial classes for students. \n\n
+            • Top rank achieved by students in UniversityExaminations. \n\n
+            • Counseling sessions for placement and on-the-job training. \n\n
+            • Research Projects have taken by students under the CPE scheme. \n\n
+            • Parent- Teacher meet. \n\n
+        </string>
+
+    <string name="science1mcafaculties">
+                  •Dr. Bhawna Sinha(HOD)\n
+                    Ph.D, M.Phil, MCA, MBA \n\n
+
+                  •Ms. Sushmita Chakraborty\n
+                    MCA,DBMS\n\n
+
+                  •Mr.Praveen Kumar\n
+                    M.Tech, MCA\n
+                    Web Technology \n\n
+
+                  • Mr. Braj Kishore Prasad \n
+                    M.Tech,MCA\n
+                    Network Security\n\n
+
+                  • Ms Poonam A Lakra\n
+                    MCA\n\n
+
+
+                  • Dr. Priyadarshini \n
+                    MCA, M.Sc, Ph.D. \n\n
+
+                  • Ms. Pratima Kumari \n
+                    B.Tech, M.Tech, UGC NET \n\n
+        </string>
+
+
+    <string name="science1bca">
+            • Top positions achieved by students of the Department in University Examinations.\n\n
+            • Regular monitoring of students through Terminal exams, projects, assignments, presentations etc.\n\n
+            • Students undergo On-the -Job Training in various organizations. \n\n
+            • Faculty support to the students. \n\n
+            • Research Projects taken by students under CPE scheme. \n\n
+            • The Department of Computer Science has been included as one of the Science Departments under the
+            Star College Scheme granted by the Department of Biotechnology, Govt. of India. Under this scheme the department
+            conducts various training programmes and Workshops for the students and teachers to enhance their knowledge base. \n\n
+            • Online Tutorial from IIT Mumbai is conducted for college students under the NMEICT project Talk -to –a- Teacher.\n\n
+            • Parent- Teacher meet.\n\n
+            • A rich departmental library to enhance the teaching -learning process.\n\n
+            • Three Add-on certificate courses are conducted to make the student computer literate, self sufficient and accomplished
+            as per the requirement of the present time. \n\n
+            • Campus Placement for students in companies like WIPRO, TCS etc.\n\n
+        </string>
+
+    <string name="science1bcafaculties">
+            • Ms. Manisha Prasad(HOD)\n
+            MCA IT, NET \n\n
+
+            • Ms. Anshu \n
+            M.Sc. (IT)\n\n
+
+            • Ms. Amrita Prakash \n
+            MCA, M.Tech \n\n
+
+            • Ms.Renu Kumari \n
+            MCA IT \n\n
+
+            • Ms. Nimisha Manan \n
+            MCA IT \n\n
+
+            • Ms. Deepa Sonal \n
+            MCA, NET \n\n
+
+            • Mr. Sudhir Kumar \n
+            M.Sc Maths \n\n
+        </string>
+
+
+    <string name="science2">
+            • Department of Biotechnology aims to provide holistic education by innovative
+        teaching, extracurricular activities, seminars and workshops. \n\n
+            • Well-equipped lab with advanced instrumentation facility. \n\n
+            • Broad area of researches are Molecular biology, Plant biotechnology,
+        Computational biology, Environmental biotechnology and nanobiotechnology
+            • Strong emphasis on modern biotechnology skills and extensive laboratory training. \n\n
+            • Inculcating Scientific attitude and skills in students through regular Hands-on-experiments. \n\n
+            • Well framed curriculum and syllabi to meet the challenges of growing demands of Biotechnology
+              Organization of skill development programs on regular basis for students. \n\n
+            • Guest lectures on cutting-edge areas of Biotechnological research. \n\n
+            • Regular interaction of students with industry personnel for wide exposure. \n\n
+            • Continuous assessment of students through projects, assignments and presentations. \n\n
+            • Involvement of students in extracurricular activities for holistic development of students.\n\n
+            • Experienced faculty support to conquer scientific knowledge and excel. \n\n
+    </string>
+
+    <string name="science2faculties">
+            • Teaching Staff \n
+            • Dr. Arti Kumari (HOD) \n
+            Biotechnology \n
+            Ph.D, M.Sc, NET,GATE \n\n
+
+            • Dr. Vivek Raj \n
+            Ph.D,M.Sc,GATE \n
+            Biotechnology \n\n
+
+            • Dr. Nivedita Priyadarshni \n
+            Biotechnology \n
+            Ph.D, M.Sc\n\n
+
+             • Dr. Alok Ranjan \n
+            Ph.D, Molecular Biology \n\n
+
+            • Dr. PREMLATA KUMARI \n
+            Ph.D., M.Sc., GATE \n\n
+    </string>
+
+
+    <string name="science3">
+               • Regular Seminars and Group Discussions are held to enhance communication skills. \n\n
+               • Academic evaluation of students by Terminal Examinations.\n\n
+               • Monitoring of the student’s experimental skills by assignments. \n\n
+               • Exposure trips to Industries and Research institutions, places of Botanical Interests. \n\n
+               • Well equipped laboratories with advanced facilities. \n\n
+               • Active participation in co-curricular and extra curricular activities. \n\n
+               • Undergraduate Research under college with potential for Excellence and Basic
+        Scientific Research scheme of UGC. \n\n
+               • Departmental library with the recent edition of books and journals for reference.\n\n
+    </string>
+
+    <string name="science3faculties">
+               • Dr. Pinky Prasad (HOD) \n
+                Ph.D \n
+                Plant Pathology\n\n
+
+               • Dr. Hena Naz \n
+                M.Sc, Ph.D \n
+                Cytogenetics \n\n
+
+               • Dr. Piyush Kumar Rai \n
+                Ph.D, M.Sc\n\n
+
+                •Dr. Urvashi Sinha \n
+                Ph.D, M.Sc \n\n
+
+               • Dr. ANJANA VERMA \n
+                BET, PhD, M.Sc. \n\n
+    </string>
+
+    <string name="science4">
+       • Regular Seminars and Group Discussions are held to enhance communication skills.\n\n
+       • Academic evaluation of students by Terminal Examinations. \n\n
+        • Monitoring of the student’s experimental skills by assignments. \n\n
+       • Exposure trips to Industries and Research institutions, places of Botanical Interests. \n\n
+       • Well equipped laboratories with advanced facilities.\n\n
+       • Active participation in co-curricular and extra curricular activities.\n\n
+       • Undergraduate Research under college with potential for Excellence and Basic Scientific Research scheme of UGC.\n\n
+       • Departmental library with a recent edition of books and journals for reference.\n\n
+    </string>
+    <string name="science4faculties">
+       • Dr.(Mrs) Madhu Rani Sinha(HOD) \n
+        M.Sc, Ph.D, B.Ed \n
+        Physical Chemistry \n\n
+
+       • Dr. Ashish Kumar \n
+        M.Sc, Ph.D \n
+        Organic Chemistry \n\n
+
+       • Dr. Jyotsna Kumari \n
+        M.Sc, Ph.D, B.Ed \n
+        Organic Chemistry \n\n
+
+       • Dr. Jyoti Chandra \n
+        Ph.D., M.Sc.,B.Sc.,NET-JRF \n\n
+
+       • Dr. Nandini \n
+        M.Sc, Ph.D \n
+        Inorganic Chemistry \n\n
+
+      • Rabindra Nath Roy Majumdar \n
+        MSc., M.Ed Chemistry \n\n
+    </string>
+
+    <string name="science5">
+       • Students secured good ranks in Patna University. Six girls among the top ten in Patna University Examination. \n\n
+    </string>
+
+    <string name="science5faculties">
+       • Dr. Seema Mishra \n
+        M.Sc., Ph.D, Net \n
+        Pure Mathematics \n\n
+
+       • Dr. Julee Shahni \n
+        M.Sc., Ph.D \n\n
+
+       • Dr. Ravi Kumar \n
+        M.Sc, (IITG) Ph. D \n
+        Applied Mathematics\n\n
+
+       • Ms. JAYA BHUSHAN \n
+        M.Sc, Ph.D(pursuing) \n\n
+
+       • Dr. Ajay Kumar \n
+        B.Sc., M.Sc. and Ph.D. \n\n
+    </string>
+
+    <string name="science6">
+           • Regular lectures by guest speakers on specialized topics.  \n\n
+           • Hands-on training in Microbiology and Biochemical Techniques, Mushroom
+        cultivation, Basic Tissue Culture Techniques and Statistical Analysis. \n\n
+           • Regular Seminars and Group Discussions to enhance communication skills. \n\n
+           • Academic Evaluation of students by Terminal Examinations.\n\n
+           • Monitoring of the student’s Experimental skills by Assignments and Annual Projects.\n\n
+           • Exposure trips to various Industries and Research Institutions.\n\n
+           • Development of Computer literacy and Entrepreneurship skills. \n\n
+           • Departmental library with the recent edition of Books  and Journal for students reference. \n\n
+           • Well equipped laboratories with tissue culture and instrumentation facilities. \n\n
+           • Active Participation in Cultural Programmes and Extra-Curricular activities. \n\n
+           • Students going for higher studies in reputed institutions of India and abroad.\n\n
+           • Regular Parent-Teacher interaction and feedback from the students. \n\n
+           • Smart Boards are used for teaching and learning purpose. \n\n
+    </string>
+
+    <string name="science6faculties">
+       • Dr. Jaya Philip(HOD) \n
+        M.Sc, GATE, PhD, NET Qualified \n
+        Microbiology \n\n
+
+       • Dr. Arti Kumari \n
+        M.Sc,GATE,PhD \n
+        Biotechnology \n\n
+
+       • Dr. Swetnisha \n
+        M.Sc., CSIR-NET, PhD \n\n
+
+       • Dr. Niti Yashvardhini \n
+        M.Sc, GATE, Ph.D., NET \n\n
+
+       • Dr. Preeti Swarupa \n
+        M.Sc, Ph.D., NET \n\n
+    </string>
+
+    <string name="science7">
+       • Students secured 1st rank in the university from the beginning of the Honours course i.e 1988 batch. \n\n
+       • A Comprehensive Report of NATIONAL SYMPOSIUM on “Ethics in Science and Technology” \n\n
+    </string>
+
+    <string name="science7faculties">
+           • Dr. Aprajita Krishna \n
+            HOD, Physics \n
+            M.Sc, Ph.D, Dean Faculty of Science , National, International and Consultancy \n\n
+
+           • Dr. Kavita Verma \n
+            M.Sc, Ph.D \n\n
+
+           • Dr. Rohit Singh\n
+            M.Sc, Ph.D \n\n
+
+           • Dr. Amrita \n
+            M.Sc, Ph.D \n\n
+
+           • Ms. Riekshika Sanwari \n
+            M.Sc. , Ph.D \n\n
+
+          •  DHARMENDRA RAI \n
+            M.Sc, UGC NET \n\n
+    </string>
+
+    <string name="science8">
+           • Experienced faculties of the Department are devoted to excellence in their
+        respective areas of specialization. \n\n
+           • Extra care is taken to pay individual attention to the students in their practical work and tutorial sessions.\n\n
+           • Project work and problem sessions are encouraged to develop innovation and analytical
+        approach to Statistical learning.\n\n
+          • The department is devoted student’s research work under the CPE and BSR (Project work) scheme. \n\n
+    </string>
+
+    <string name="science8faculties">
+            • Ms. Moon(HOD)\n
+            M.Sc., B.Ed \n
+            Demography \n\n
+
+           • Dr. Vikash Kumar \n
+            PhD \n\n
+
+           • Dr. Amit Kumar \n
+            PhD, NET \n\n
+    </string>
+
+
+    <string name="science9">
+           • Students secure good ranks in Patna University. 6-9 girls are among the top ten in Patna University Exams.  \n\n
+           • Organizes students activities on a regular basis under the banner of Environment Conservation
+        Outreach (ECO) task force. \n\n
+           • Completed one UGC Major Project and two Minor Projects. \n\n
+    </string>
+
+    <string name="science9faculties">
+       • Dr. Shobha Srivastava (HOD)\n
+        M.Sc, Ph.D \n
+        Entomology \n\n
+
+       • Dr. Sister Stuti A.C.\n
+        M.Sc, Ph.D. Entomology and Vermitechnology \n\n
+
+       • Mr. Sumeet Ranjan \n
+        M.Sc, Ph.D \n\n
+
+       • Dr. Anupma Kumari \n
+        B.Sc, M. Sc., Ph.D \n\n
+
+
+       • Dr. Neetu \n
+        M.Sc, Ph.D \n\n
+
+       • Mr. RAJEEV RANJANn \n
+        M. Sc., NET-JRF, GATE \n\n
+
+       • Dr. Sapna Kumari \n
+        M.Sc, Ph. D, CSIR- NET \n\n
+
+       • Dr. Kumari Sugandha Priya \n
+        M.Sc, Ph.D \n\n
+
+       • Dr. Aprajita Singh \n
+        M.Sc. , Ph.D \n\n
+    </string>
+
+
+    <string name="commerce1">
+    • 100% result with good percentage and every year 8 to 9 students come under the
+        top 10 rank holders at the university level.\n\n
+    • Teaching through visual aids.\n\n
+    • Special care for weak students.\n\n
+    • Corporate experience through on the job training for IInd year students.\n\n
+    • Industrial exposure to IIIrd year students to the Industries like : Geetanjali, Mother Dairy, Parle-G etc.\n\n
+    </string>
+
+    <string name="commerce1faculties">
+        • Dr.Pallawi Ambreesh Kumar. (HOD) \n
+        M.B.A, Ph.D, NET \n
+        HRM\n\n
+
+        • Ms. Satnam Kaur\n
+        BBA, MBA, UGC-NET\n\n
+
+        • Ms. Kumari Priya\n
+        Ph.D, NET, M.B.A, ARPITA\n\n
+
+        • Dr. RUCHITA MASIH\n
+        MBA, Ph.D in Management, UGC NET\n\n
+
+        • Dr. Kumari Soni\n
+        Ph.D, M.B.A, BBA\n\n
+    </string>
+
+
+    <string name="commerce2">
+    • Establishment of Commerce Lab to provide students knowledge in five specialized sections
+     viz:-  Banking, Accountancy, Insurance, Foreign Exchange and Stock Exchange.\n\n
+    • Internship arranged for many students in the companies like Kotak Securities, Lohia
+     Securities Pvt. Ltd. and Fast Capital Markets Ltd.\n\n
+    • Seminars, Group Discussions are conducted regularly.\n\n
+    • Special guidelines and motivation for career orientation to students.\n\n
+    • Spotlight on current economic and business scenario.\n\n
+    • Modern means of teaching like PowerPoint Presentation in the class.\n\n
+    </string>
+
+    <string name="commerce2faculties">
+        • Dr. Soofia Fatima(HOD)\n
+        M.Com, Ph.D\n
+        Accounts\n\n
+
+        • Ms. Kirti Kamal\n
+        M.Com, B.Com\n\n
+
+        • Mr. Gautam Saurabh\n
+        M.Com, UGC-NET\n\n
+
+        • Ms. Nikki Tiwari\n
+        M.Com, UGC-NET\n\n
+
+        • Ms. PUJA KUMARI\n
+        M.Com, B.Com\n\n
+
+        • Ms. Shweta Shah\n
+        C.S., C.A (Final)\n
+        Taxation\n\n
+
+        • Ms. Sagarika\n
+        M.Com, UGC-NET\n\n
+
+        • Ms.Neha Raj Gupta\n
+        M.Com, UGC-NET\n\n
+
+        • Anup Sharma\n
+        M.Com, UGC-NET,HRM\n\n
+
+        • Ms. SOHINI PRIYA\n
+        M.Com, UGC-NET,Ph.D. Pursuing\n\n
+
+        • Mona Kumari\n
+        M.Com, UGC-NET,HRM\n\n
+    </string>
+
+    <string name="commerce3">
+    • The Department has an impressive track record in terms of the Alumni being placed in diffrent
+        frontline organizations like ICICI Bank, Ranbaxy, HDFC Bank, Hindustan Times, Bajaj Capital, LIC etc.\n\n
+    • In the final year, the department arranges for regular visits to Blue Chip Companies
+        like Godrej,Whirlpool, Maruti Udyog Ltd, UB Group,Sudha, Pepsi,Bisleri,HMT(Tractors)etc.
+        in order to provide an exlellent corporate exposure.The students are made to learn the
+        professional skills through on the job-Training in the sixth semester in diffrent sectors
+        like Banking, Telecom Industry, Hospitality, Media etc\n\n
+    </string>
+
+    <string name="commerce3faculties">
+        • Dr. Shazia Rahman (HOD)\n
+        M.A, MBA, PhD\n\n
+
+        • Ms. Nusrath Sohail\n
+        MBA (HR)\n\n
+
+        • Dr. Dharmendra Kumar Singh\n
+        MBA, NET (UGC),Ph.D\n\n
+
+        • Alok John\n
+        Ph.D. (pursuing), UGC – NET, MBA, PGDM.\n\n
+
+        • Ms.Yosha Singh\n
+        M.B.A\n\n
+    </string>
+
+    <string name="BEd">
+        • In view of the high demand for teacher training programmes in the sta Patna Women’s College
+          applied to National Council for Teacher Education (NCTE) in 2005 to introduce B.Ed.and to start the Department of Education on its premises.\n\n
+        • NCTE granted recognition to the Department on 21 June 2005. \n\n
+        • The College officially introduced and inaugurated the BES programme and the Department of Education on 8 April, 2006. \n\n
+        • The Department was accredited with an ‘A’ grade by NAAC with CGPA 3.52 out4 in 2011. \n\n
+        • The B.Ed. programme of the Department is of two academic years (four semesters) duration. \n\n
+        • At present, the Department runs the programme for two units (100 students). \n\n
+        • The Department does its best to provide comprehensive educational experiences to prospective teachers in consonance with its objectives. \n\n
+        • It organizes a number of workshops, seminars, guest lectures, orientation and personality development programmes regularly. \n\n
+        • Value education and Theology classes are part of the curriculum to inculcate moral and ethical values and to inspire an honest and conscientious worldview. \n\n
+        • To encourage ‘we-feeling and to promote a sense of belongingness to the surrounding community, the prospective teachers are encouraged to
+        participate in several campus-to-community programmes. \n\n
+        • The Department also organizes National and State level Workshops/Conferences/Seminars for skill development and research orientation
+        of the teaching community and students from time to time. \n\n
+        • ICT resource centres such as Smart Class, Multimedia Room, e-library and Computer Lab with free broadband Internet facility are
+        provided to strengthen 21st-century skills and to provide diverse and comprehensive learning experiences to prospective teachers. \n\n
+        • Recently the campus has acquired Wifi. \n\n
+        • The students of the Department have performed remarkably well in the Patna University Examinations over the years. \n\n
+        • They have been placed in renowned schools in Bihar and of other states through campus and non-campus selection procedures.  \n\n
+        • Some of them have pursued higher education and won laurels for their accomplishments. \n\n
+        • The Department helps prospective teachers to discover their latent capabilities and develop them into skilled and alert
+        learners who are able to lead a fine teaching career. \n\n
+    </string>
+
+    <string name="BEdFaculties">
+           • Sister (Dr.)M. Saroj A.C(HOD) \n
+             B.Ed., M.Ed \n\n
+
+            • Ms. Waeza Afshan\n
+            M.A.(Eng), M.Ed., NET \n\n
+
+           • Swati Shilpi \n
+            MA, M.Ed. NET \n\n
+
+           • Dr Shubhra \n
+            BSc-BCA, M.Ed, MA (Psy), PhD \n\n
+
+           • Ritika Shree \n
+            MSc(Math), MEd, UGC NET, \n\n
+
+           • Dr Prabhas Ranjan \n
+            MA (His), MA (Soc), B.Ed., M.Ed, PhD \n\n
+
+           • Dr Nitu Chauhan \n
+            MA (Hindi), MEd, PhD \n\n
+
+           • Dr. Neena Verma \n
+            MA, MEd, PhD \n\n
+
+           • Mona Kumari \n
+            M.A.(Eco), M.Ed., NET \n\n
+
+           • Dr. Madhumita \n
+            B.Ed., M.Ed, Ph.D. \n\n
+
+           • Fr John Britto \n
+            B.Ed., M.Ed., M.Sc. Chemistry\n\n
+
+           • Ms. Quazi Bushra Ahmed \n
+            B.P.Ed., M.P.Ed \n\n
+
+           • Yamini \n
+            MA(Sociology), MA(Kathak Dance) \n\n
+
+           • Dr.Sister Jincy A.C. \n
+            MA, PhD/p> \n\n
+
+           • Ms. Geetanjali Choudhary \n
+            PGDFD,M.A., MFA \n\n
+
+            • Dr. Rashmi Sinha \n
+            B.Ed., M.Ed. PhD \n\n
+    </string>
+
+    <string name="names">
+        SWETA KUMARI
+    </string>
+
+    <string name="subHeading">
+         Autonomous\n
+        Patna University\n
+        3rd Cycle NAAC Accredited at \'A\' grade \n with CGPA 3.58/4\n
+    </string>
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#05396c"
+    tools:context=".Department">
+
+
+    <TextView
+        android:id="@+id/chooseDept"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:background="#a53293"
+        android:elevation="1dp"
+        android:padding="15dp"
+        android:fontFamily="@font/lato"
+        android:text="Departments"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <Spinner
+        android:id="@+id/departments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chooseDept"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#fff"
+        android:background="#fff"
+        android:layout_marginRight="50dp"
+        android:elevation="20dp"
+        android:padding="10dp" />
+
+    <Spinner
+        android:id="@+id/subDepartments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/departments"
+        android:layout_marginLeft="40dp"
+        android:textColor="#fff"
+        android:background="#fff"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="50dp"
+        android:elevation="40dp"
+        android:padding="10dp"
+        />
+
+    <Button
+        android:id="@+id/viewDetailsBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subDepartments"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#f0ad4e"
+        android:padding="10dp"
+        android:text="View Details"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:cornerRadius="10dp"
+        android:fontFamily="@font/lato"
+        />
+
+    <ImageView
+        android:id="@+id/pwcImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-15dp"
+        android:alpha="0.8"
+        android:scaleType="center"
+        app:srcCompat="@drawable/pwccollege" />
+
+
+
+</RelativeLayout>
